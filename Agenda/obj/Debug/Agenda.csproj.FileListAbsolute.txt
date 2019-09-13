@@ -1,0 +1,11 @@
+c:\users\centro13\documents\visual studio 2017\Projects\Agenda\Agenda\bin\Debug\Agenda.mdb
+c:\users\centro13\documents\visual studio 2017\Projects\Agenda\Agenda\bin\Debug\Agenda.exe.config
+c:\users\centro13\documents\visual studio 2017\Projects\Agenda\Agenda\bin\Debug\Agenda.exe
+c:\users\centro13\documents\visual studio 2017\Projects\Agenda\Agenda\bin\Debug\Agenda.pdb
+c:\users\centro13\documents\visual studio 2017\Projects\Agenda\Agenda\obj\Debug\Agenda.csprojResolveAssemblyReference.cache
+c:\users\centro13\documents\visual studio 2017\Projects\Agenda\Agenda\obj\Debug\Agenda.Form1.resources
+c:\users\centro13\documents\visual studio 2017\Projects\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+c:\users\centro13\documents\visual studio 2017\Projects\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.Cache
+c:\users\centro13\documents\visual studio 2017\Projects\Agenda\Agenda\obj\Debug\Agenda.exe
+c:\users\centro13\documents\visual studio 2017\Projects\Agenda\Agenda\obj\Debug\Agenda.pdb
+c:\users\centro13\documents\visual studio 2017\Projects\Agenda\Agenda\obj\Debug\Agenda.Form2.resources
